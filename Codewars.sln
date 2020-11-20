@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddDistinctStr", "AddDistin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalizeFirstLetterWord", "CapitalizeFirstLetterWord\CapitalizeFirstLetterWord.csproj", "{EFA418BC-860F-47F7-A6CB-0C9D08ADC43C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accumul", "Accumul\Accumul.csproj", "{79C7678F-49D9-4970-B5EE-11AB7C09C8BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EFA418BC-860F-47F7-A6CB-0C9D08ADC43C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFA418BC-860F-47F7-A6CB-0C9D08ADC43C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFA418BC-860F-47F7-A6CB-0C9D08ADC43C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C7678F-49D9-4970-B5EE-11AB7C09C8BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C7678F-49D9-4970-B5EE-11AB7C09C8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C7678F-49D9-4970-B5EE-11AB7C09C8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C7678F-49D9-4970-B5EE-11AB7C09C8BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

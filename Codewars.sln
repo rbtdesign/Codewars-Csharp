@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapitalizeFirstLetterWord",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accumul", "Accumul\Accumul.csproj", "{79C7678F-49D9-4970-B5EE-11AB7C09C8BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseSomeWords", "ReverseSomeWords\ReverseSomeWords.csproj", "{5BC64ED4-B55B-4E73-B928-F4760026DF8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{79C7678F-49D9-4970-B5EE-11AB7C09C8BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79C7678F-49D9-4970-B5EE-11AB7C09C8BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79C7678F-49D9-4970-B5EE-11AB7C09C8BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC64ED4-B55B-4E73-B928-F4760026DF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC64ED4-B55B-4E73-B928-F4760026DF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC64ED4-B55B-4E73-B928-F4760026DF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC64ED4-B55B-4E73-B928-F4760026DF8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accumul", "Accumul\Accumul.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseSomeWords", "ReverseSomeWords\ReverseSomeWords.csproj", "{5BC64ED4-B55B-4E73-B928-F4760026DF8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDiff", "ArrayDiff\ArrayDiff.csproj", "{EDF20702-854A-412E-9BF5-9A268C62B547}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5BC64ED4-B55B-4E73-B928-F4760026DF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BC64ED4-B55B-4E73-B928-F4760026DF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BC64ED4-B55B-4E73-B928-F4760026DF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF20702-854A-412E-9BF5-9A268C62B547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF20702-854A-412E-9BF5-9A268C62B547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF20702-854A-412E-9BF5-9A268C62B547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF20702-854A-412E-9BF5-9A268C62B547}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseSomeWords", "Reverse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDiff", "ArrayDiff\ArrayDiff.csproj", "{EDF20702-854A-412E-9BF5-9A268C62B547}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatPhoneNumberUS", "FormatPhoneNumberUS\FormatPhoneNumberUS.csproj", "{01196FD6-B889-4D52-9DAB-908E81C4AFA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EDF20702-854A-412E-9BF5-9A268C62B547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDF20702-854A-412E-9BF5-9A268C62B547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDF20702-854A-412E-9BF5-9A268C62B547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01196FD6-B889-4D52-9DAB-908E81C4AFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01196FD6-B889-4D52-9DAB-908E81C4AFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01196FD6-B889-4D52-9DAB-908E81C4AFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01196FD6-B889-4D52-9DAB-908E81C4AFA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -28,7 +28,7 @@ namespace ArrayDiff
 
             int[] output = num.ToArray();
 
-            return output;
+            //return output;
 
 
             //// Solution with Linq

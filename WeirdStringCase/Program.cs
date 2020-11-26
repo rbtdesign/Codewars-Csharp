@@ -38,15 +38,8 @@ namespace WeirdStringCase
 
 
 
-
-
-
-
             Console.WriteLine(res);
             Console.ReadLine();
-
-
-
 
             // Extra Solution using Linq
 

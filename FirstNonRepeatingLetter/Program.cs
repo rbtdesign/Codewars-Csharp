@@ -11,63 +11,63 @@ namespace FirstNonRepeatingLetter
         static void Main(string[] args)
         {
 
-			string s = "sTretss";
+            string s = "sTretss";
 
 
-			List<char> word = new List<char>(s.ToLower());
+            List<char> word = new List<char>(s.ToLower());
 
-			IEnumerable<char> distinctChar = word.Distinct();
+            IEnumerable<char> distinctChar = word.Distinct();
 
-			Dictionary<char, int> countLetter = new Dictionary<char, int>();
+            Dictionary<char, int> countLetter = new Dictionary<char, int>();
 
-			foreach (char letter in distinctChar)
-			{
-				int count = word.Count(x => x == letter);
+            foreach (char letter in distinctChar)
+            {
+                int count = word.Count(x => x == letter);
 
-				countLetter.Add(letter, count);
-			}
+                countLetter.Add(letter, count);
+            }
 
-			string res = String.Empty;
+            string res = String.Empty;
 
-			foreach (KeyValuePair<char, int> nbLetter in countLetter)
-			{
+            foreach (KeyValuePair<char, int> nbLetter in countLetter)
+            {
 
-				if (nbLetter.Value == 1)
-				{
+                if (nbLetter.Value == 1)
+                {
 
-					res = nbLetter.Key.ToString();
-					break;
+                    res = nbLetter.Key.ToString();
+                    break;
 
-				}
-				else
-				{
-					res = String.Empty;
-				}
-			}
+                }
+                else
+                {
+                    res = String.Empty;
+                }
+            }
 
-			var i = s.ToLower().IndexOf(res);
+            var i = s.ToLower().IndexOf(res);
 
-			if (res == String.Empty)
-			{
-				Console.WriteLine("");
-			}
-			else
-			{
-				Console.WriteLine(s[i].ToString());
-			};
+            if (res == String.Empty)
+            {
+                Console.WriteLine("");
+            }
+            else
+            {
+                Console.WriteLine(s[i].ToString());
+            };
 
-			Console.ReadLine();
+            Console.ReadLine();
 
-			// Solution using linq : 
+            // Solution using linq : 
 
-			/*
-			return s.GroupBy(char.ToLower)
-				.Where(gr => gr.Count() == 1)
-				.Select(x => x.First().ToString())
-				.DefaultIfEmpty("") 
-				.First();
-			*/
+            /*
+            return s.GroupBy(char.ToLower)
+                .Where(gr => gr.Count() == 1)
+                .Select(x => x.First().ToString())
+                .DefaultIfEmpty("") 
+                .First();
+            */
 
-		}
-	}
+        }
+    }
 }

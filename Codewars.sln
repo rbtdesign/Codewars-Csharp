@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstNonRepeatingLetter", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphanumericBasic", "AlphanumericBasic\AlphanumericBasic.csproj", "{0CCE8042-08DA-4265-AAD2-FADDA9751B65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestingNumbersRules", "InterestingNumbersRules\InterestingNumbersRules.csproj", "{2D7B943D-C146-44DA-AF82-E67EAA912D57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{0CCE8042-08DA-4265-AAD2-FADDA9751B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CCE8042-08DA-4265-AAD2-FADDA9751B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CCE8042-08DA-4265-AAD2-FADDA9751B65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D7B943D-C146-44DA-AF82-E67EAA912D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7B943D-C146-44DA-AF82-E67EAA912D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7B943D-C146-44DA-AF82-E67EAA912D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7B943D-C146-44DA-AF82-E67EAA912D57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphanumericBasic", "Alphan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestingNumbersRules", "InterestingNumbersRules\InterestingNumbersRules.csproj", "{2D7B943D-C146-44DA-AF82-E67EAA912D57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePigLatin", "SimplePigLatin\SimplePigLatin.csproj", "{0DBDD3B5-92FD-456A-A4BB-5E6978B12A1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{2D7B943D-C146-44DA-AF82-E67EAA912D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D7B943D-C146-44DA-AF82-E67EAA912D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D7B943D-C146-44DA-AF82-E67EAA912D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DBDD3B5-92FD-456A-A4BB-5E6978B12A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBDD3B5-92FD-456A-A4BB-5E6978B12A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBDD3B5-92FD-456A-A4BB-5E6978B12A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBDD3B5-92FD-456A-A4BB-5E6978B12A1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

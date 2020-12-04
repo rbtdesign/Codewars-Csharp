@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterestingNumbersRules", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePigLatin", "SimplePigLatin\SimplePigLatin.csproj", "{0DBDD3B5-92FD-456A-A4BB-5E6978B12A1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedIsGood", "GreedIsGood\GreedIsGood.csproj", "{8C1ED496-C530-469D-B5F2-902197DC872F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{0DBDD3B5-92FD-456A-A4BB-5E6978B12A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DBDD3B5-92FD-456A-A4BB-5E6978B12A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DBDD3B5-92FD-456A-A4BB-5E6978B12A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C1ED496-C530-469D-B5F2-902197DC872F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1ED496-C530-469D-B5F2-902197DC872F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1ED496-C530-469D-B5F2-902197DC872F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1ED496-C530-469D-B5F2-902197DC872F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePigLatin", "SimplePig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedIsGood", "GreedIsGood\GreedIsGood.csproj", "{8C1ED496-C530-469D-B5F2-902197DC872F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMix", "StringMix\StringMix.csproj", "{F327A482-DA00-4A9C-9D0B-3A35CCBFA48F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{8C1ED496-C530-469D-B5F2-902197DC872F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C1ED496-C530-469D-B5F2-902197DC872F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C1ED496-C530-469D-B5F2-902197DC872F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F327A482-DA00-4A9C-9D0B-3A35CCBFA48F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F327A482-DA00-4A9C-9D0B-3A35CCBFA48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F327A482-DA00-4A9C-9D0B-3A35CCBFA48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F327A482-DA00-4A9C-9D0B-3A35CCBFA48F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

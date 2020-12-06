@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedIsGood", "GreedIsGood\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMix", "StringMix\StringMix.csproj", "{F327A482-DA00-4A9C-9D0B-3A35CCBFA48F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiple3-5", "Multiple3-5\Multiple3-5.csproj", "{0ACBB142-D472-4F45-81A6-046EADF3BBFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{F327A482-DA00-4A9C-9D0B-3A35CCBFA48F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F327A482-DA00-4A9C-9D0B-3A35CCBFA48F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F327A482-DA00-4A9C-9D0B-3A35CCBFA48F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ACBB142-D472-4F45-81A6-046EADF3BBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ACBB142-D472-4F45-81A6-046EADF3BBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ACBB142-D472-4F45-81A6-046EADF3BBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ACBB142-D472-4F45-81A6-046EADF3BBFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

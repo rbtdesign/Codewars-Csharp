@@ -93,7 +93,7 @@ namespace StringMix
             Console.WriteLine("end");
             Console.ReadLine();
 
-
+            // Refactor
         }
     }
 }

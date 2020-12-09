@@ -16,7 +16,7 @@ namespace PalindromeLongest
             // return "racecar"
 
             //if (String.IsNullOrEmpty(str))
-               //return 0;
+            //    return 0;
 
             var buffer = string.Join("", str
                             .Reverse()
@@ -24,9 +24,9 @@ namespace PalindromeLongest
 
 
             var current_word = "";
-            var longest = 0 ;
+            var longest = 0;
 
-            for(int i = 0; i < buffer.Length; i++)
+            for (int i = 0; i < buffer.Length; i++)
             {
 
                 current_word = current_word + buffer[i];
@@ -34,7 +34,8 @@ namespace PalindromeLongest
                 if (str.Contains(current_word) && longest < current_word.Length)
                 {
                     longest++;
-                } else if (!str.Contains(current_word))
+                }
+                else if (!str.Contains(current_word))
                 {
                     current_word = buffer[i].ToString();
                 }
@@ -42,20 +43,6 @@ namespace PalindromeLongest
 
 
             }
-                    
-
-
-                        //.Select(x => x)
-                        //.Aggregate(0, (res, item) => res + item, result => str.Contains(result));
-                        //.Select(l => str.Contains(l) );
-                        
-
-
-
-
-
-
-
 
 
 

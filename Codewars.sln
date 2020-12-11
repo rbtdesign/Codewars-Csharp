@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZerosEnd", "MoveZerosEn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildTower", "BuildTower\BuildTower.csproj", "{18E70FEC-7538-4C73-B02D-DA8B6764FA27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagrams.csproj", "{F8445056-FEE6-4B2B-A1AF-B29A41DA8B93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{18E70FEC-7538-4C73-B02D-DA8B6764FA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18E70FEC-7538-4C73-B02D-DA8B6764FA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18E70FEC-7538-4C73-B02D-DA8B6764FA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8445056-FEE6-4B2B-A1AF-B29A41DA8B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8445056-FEE6-4B2B-A1AF-B29A41DA8B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8445056-FEE6-4B2B-A1AF-B29A41DA8B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8445056-FEE6-4B2B-A1AF-B29A41DA8B93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

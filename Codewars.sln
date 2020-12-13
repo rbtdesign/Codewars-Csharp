@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildTower", "BuildTower\Bu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagrams.csproj", "{F8445056-FEE6-4B2B-A1AF-B29A41DA8B93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumArray", "SumArray\SumArray.csproj", "{910B5458-6F8B-4524-86CA-8159FCB34500}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{F8445056-FEE6-4B2B-A1AF-B29A41DA8B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8445056-FEE6-4B2B-A1AF-B29A41DA8B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8445056-FEE6-4B2B-A1AF-B29A41DA8B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910B5458-6F8B-4524-86CA-8159FCB34500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910B5458-6F8B-4524-86CA-8159FCB34500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910B5458-6F8B-4524-86CA-8159FCB34500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910B5458-6F8B-4524-86CA-8159FCB34500}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

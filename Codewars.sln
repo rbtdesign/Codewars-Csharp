@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumArray", "SumArray\SumArray.csproj", "{910B5458-6F8B-4524-86CA-8159FCB34500}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindOddInt", "FindOddInt\FindOddInt.csproj", "{D5A7A30E-3B3E-4263-8493-7006697C9317}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{910B5458-6F8B-4524-86CA-8159FCB34500}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{910B5458-6F8B-4524-86CA-8159FCB34500}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{910B5458-6F8B-4524-86CA-8159FCB34500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A7A30E-3B3E-4263-8493-7006697C9317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A7A30E-3B3E-4263-8493-7006697C9317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A7A30E-3B3E-4263-8493-7006697C9317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A7A30E-3B3E-4263-8493-7006697C9317}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

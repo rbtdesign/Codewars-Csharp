@@ -43,7 +43,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anagrams", "Anagrams\Anagra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumArray", "SumArray\SumArray.csproj", "{910B5458-6F8B-4524-86CA-8159FCB34500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindOddInt", "FindOddInt\FindOddInt.csproj", "{D5A7A30E-3B3E-4263-8493-7006697C9317}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindOddInt", "FindOddInt\FindOddInt.csproj", "{D5A7A30E-3B3E-4263-8493-7006697C9317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital Root", "Digital Root\Digital Root.csproj", "{27E3CF42-DFAD-4926-845A-BAFE003238AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parity outlier", "Parity outlier\Parity outlier.csproj", "{04D7AF37-16D3-49FD-B6DB-4014F3B4B25A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{D5A7A30E-3B3E-4263-8493-7006697C9317}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5A7A30E-3B3E-4263-8493-7006697C9317}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5A7A30E-3B3E-4263-8493-7006697C9317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27E3CF42-DFAD-4926-845A-BAFE003238AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E3CF42-DFAD-4926-845A-BAFE003238AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E3CF42-DFAD-4926-845A-BAFE003238AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E3CF42-DFAD-4926-845A-BAFE003238AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04D7AF37-16D3-49FD-B6DB-4014F3B4B25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D7AF37-16D3-49FD-B6DB-4014F3B4B25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D7AF37-16D3-49FD-B6DB-4014F3B4B25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D7AF37-16D3-49FD-B6DB-4014F3B4B25A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
